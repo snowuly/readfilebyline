@@ -1,0 +1,25 @@
+{
+  "name": "readfilebyline",
+  "version": "0.1.0",
+  "description": "Read file line by line",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/snowuly/readfilebyline.git"
+  },
+  "keywords": [
+    "readstream",
+    "readfile",
+    "read",
+    "line",
+    "line by line"
+  ],
+  "author": "Tony Chen <snowuly@gmail.com> (http://xuenuo.me/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/snowuly/readfilebyline/issues"
+  }
+}
